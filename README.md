@@ -28,10 +28,8 @@ Tools & Technologies
 - **Total Orders:** 26.326K
 - **Total Quantity Sold:** 198K
 
-## Dashboard Preview
-## Dashboard Features
 
-<img src="Global-Electronics-Dashboard.png" alt="Dashboard Preview" width="100%">
+## Dashboard Features
 
 1. Revenue by Country
 
