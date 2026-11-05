@@ -31,7 +31,7 @@ Tools & Technologies
 ## Dashboard Preview
 ## Dashboard Features
 
-![Dashboard Preview](Global-Electronics-Dashboard.PNG)
+![Dashboard Preview](Global-Electronics-Dashboard.PNG?raw=true)
 
 1. Revenue by Country
 
