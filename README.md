@@ -31,7 +31,7 @@ Tools & Technologies
 ## Dashboard Preview
 ## Dashboard Features
 
-![Global Electronics Sales Dashboard](Global-Electronics-Dashboard.png)
+![Dashboard Preview](Global-Electronics-Dashboard.png)
 1. Revenue by Country
 
 Analyzes revenue contribution across different countries.
